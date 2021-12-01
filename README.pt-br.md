@@ -92,14 +92,14 @@ Você pode ter uma descrição completa sobre as opções abaixo e como usá-las
 | headerColor         | `string`                                      | `'#128C7E'`              |          | Cor de fundo da barra de título do formulário.
 | headerTitle         | `string`                                      | `'WhatsApp Chat'`        |    N     | Texto que será mostrado na barra de título do formulário.
 | message             | `string`                                      | `''`                     |    N     | Mensagem a ser enviada. Se `showPopup` for `true`, o campo de mensagem será preenchido com este texto.
-| messageLabel        | `string`                                      | `'Enter Your Message Here'`  |    N     | Rórtulo para o campo de mensagem.
+| messageLabel        | `string`                                      | `'Enter Your Message Here'`  |    N     | Rótulo para o campo de mensagem.
 | nameLabel           | `string`                                      | `'Enter Your Name'`      |    N     | Rótulo para o campo nome.
 | phone               | `string`                                      | `''`                     |    Y     | Número de WhatsApp que receberá a mensagem [número no formato internacional](https://faq.whatsapp.com/pt-br/general/21016748).   
 | phoneHint           | `string`                                      | `'phone number like: 14081234567'`     |    N     | Dica para o campo Phone.
 | phoneLabel          | `string`                                      | `'Enter Your phone number'`     |    N     | Rótulo para o campo phone.
 | position            | `string`                                      | `'left'`                 |    N     | Posição do botão na tela. `'left'` &#124; `'right'`
 | popupMessage        | `string`                                      | `'Please, enter your details'` |    N     | Mensagem de boas-vindas para o visitante do seu site.
-| requiredData        | `boolean`                                     | `true`                   |    N     | True para ftornar obrigatório o preenchimento dos detalhes do visitante (name, first_name, last_name, email and phone).
+| requiredData        | `boolean`                                     | `true`                   |    N     | True para tornar obrigatório o preenchimento dos detalhes do visitante (name, first_name, last_name, email e phone).
 | showOnIE            | `boolean`                                     | `true`                   |    N     | Mostra ou não o botao no browser IE (recommendado true).
 | showPopup           | `boolean`                                     | `true`                   |    N     | Se TRUE, mostra o formulário quando o visitante passa o mouse sobre o botão (em desktop) ou clica no botão (em aparelhos móveis).
 | size                | `string`                                      | `'60px'`                 |    N     | Tamanhoo do botão. Qualquer opção css é válida largura e altura. properties.
