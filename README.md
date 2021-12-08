@@ -8,7 +8,7 @@ It adds a floating button to your website that calls the [WhatsApp Click to Chat
 
 Besides to allow chat via WhatsApp, it can capture visitors details like, first name, last name, email. This behaviour is optional and you can activate it or not.
 
-If you activate the capture of visitors details you will receive them in the email you chose when you create the button.
+If you enable the capture of data from visitors, you will receive them in the email you chose when creating the button.
 
 ## Creating the button
 
